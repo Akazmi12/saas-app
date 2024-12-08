@@ -68,7 +68,7 @@ export default function Footer() {
         <div className="border-t border-border py-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-sm text-muted-foreground">
-              © 2024 Your Company. All rights reserved.
+              © 2024 AbbasK. All rights reserved.
             </p>
             <div className="flex gap-4">
               <a href="#" className="text-muted-foreground hover:text-foreground">
